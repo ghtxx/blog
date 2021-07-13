@@ -74,4 +74,6 @@ Miner的下载地址: [https://nas.aqde.net:9090/fbsharing/OH3jjkp5](https://nas
 ## 一些有趣的btc相关网站
 似乎是个人版的BTC网络分析：https://bitcoincharts.com/bitcoin/
 
-BTC官方的挖矿教程：https://www.bitcoinmining.com/getting-started/
+BTC官方的挖矿教程：https://www.bitcoinmining.com/getting-started/ [中文版](https://www.bitcoinmining.com/translations/getting-started/zh-getting-started/)
+
+
