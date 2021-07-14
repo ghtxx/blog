@@ -76,4 +76,14 @@ Miner的下载地址: [https://nas.aqde.net:9090/fbsharing/OH3jjkp5](https://nas
 
 BTC官方的挖矿教程：https://www.bitcoinmining.com/getting-started/ [中文版](https://www.bitcoinmining.com/translations/getting-started/zh-getting-started/)
 
+Payeer在线钱包：https://payeer.com/en/account/ 「转移时有0.5%的手续费」 同时提供[数字币汇率行情](https://payeer.com/en/account/trade/) 、 [注册后即可使用](https://payeer.com/018753697) ，服务器位于捷克境内，受欧州数据保护，隐私性较好。
+
+BCH，一个重点放在交易功能的基础网站：https://bitcoinfees.cash/
+
+一个不用注册的临时钱包：https://sideshift.ai/ 打开网页即可使用钱包，密钥是通过浏览器保存的一串字符，可在其他浏览器恢复，同样收0.5%的手续费。
+
+CoinEx交易所，值得信赖的数字资产交易平台，聚集创新数字资产。[点此注册](https://www.coinex.com/register?refer_code=t6783) 上面的两个功能似乎都与这个交易所有关。安全性应该还是有保障的。
+
+
+
 
