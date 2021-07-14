@@ -267,7 +267,7 @@ pygame的官方指南：[https://www.pygame.org/wiki/GettingStarted](https://www
 
 打算看一下网络风评很好的《诛仙》：[https://www.xinshuhaige.org/44830/](https://www.xinshuhaige.org/44830/)
 
-[很垃圾的一本小说](https://www.xinshuhaige.net/53535/3458879.html),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 6441.
+[很垃圾的一本小说](https://www.xinshuhaige.net/53535/3459116.html),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 6462.
 
 [微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2313.
 
