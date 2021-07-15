@@ -28,7 +28,7 @@ B站的纪录片排行榜：[https://www.bilibili.com/v/popular/rank/documentary
 
 ### 内网主要设备管理
 
-hype-V的centos8管理:http://192.168.1.3:8888/
+hype-V的centos8管理:http://192.168.1.3:65534/
 
 centos8自带的Cockpit：https://192.168.1.3:9090/system
 
