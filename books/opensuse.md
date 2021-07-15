@@ -81,3 +81,27 @@ kde是最好看的，有点儿苹果的感觉；gnome跟ubuntu差不多;xfce是�
      sudo zypper install code
 
 刷新并安装code编码器！
+
+## 安装chrome稳定版
+
+添加Chrome存储库
+
+第一步是添加Google Chrome存储库。启动终端并运行以下命令。
+
+    sudo zypper ar http://dl.google.com/linux/chrome/rpm/stable/x86_64 Google-Chrome
+
+在命令中，“ ar”代表“ addrepo”。要了解有关Zypper及其用法的更多信息，请查看[如何在openSUSE上使用Zypper](https://translate.googleusercontent.com/translate_c?depth=1&pto=aue&rurl=translate.google.ac&sl=en&sp=nmt4&tl=zh-CN&u=https://linuxhint.com/opensuse_package_manager/&usg=ALkJrhiEwty3w0hUk8euI_LBNzw2aSjiyA)。
+
+该仓库尚未准备就绪，无法使用。我们需要添加Google公共签名密钥，以便可以对软件包进行验证。运行这些命令。
+wget https://dl.google.com/linux/linux_signing_key.pub
+
+    sudo rpm --import linux_signing_key.pub
+
+密钥导入完成后，更新zypper的回购缓存。
+
+    sudo zypper ref -f
+
+
+最后，安装Chrome，zypper准备从存储库中获取Google Chrome！
+
+    sudo zypper in google-chrome-stable
