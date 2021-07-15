@@ -64,3 +64,20 @@ kde是最好看的，有点儿苹果的感觉；gnome跟ubuntu差不多;xfce是�
 官方的建议在[这里](https://zh.opensuse.org/SDB:KDE_%E5%AE%89%E8%A3%85)
 
 两种窗口都存在的时候，登录时选择的上一个会被记为默认。
+
+## 安装vs code的最佳方法
+
+执行几个命令就行了，微软对开源的拥抱真的很棒：
+
+    sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+
+引入微软的密钥。
+
+    sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ntype=rpm-md\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/zypp/repos.d/vscode.repo'
+
+加入微软的repo源。
+
+     sudo zypper refresh
+     sudo zypper install code
+
+刷新并安装code编码器！
