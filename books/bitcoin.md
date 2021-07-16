@@ -95,3 +95,19 @@ CoinEx交易所，值得信赖的数字资产交易平台，聚集创新数字�
 2、ETH的钱包：https://metamask.io/download.html
 
 
+## 我的钱包信息
+
+### bitcoin-core生成的钱包
+URI：
+
+        bitcoin:BC1Q2FWT6KYM2MFDNAYY9RC3PQDU3FG0XKC2X2NKVM?label=powerPC&message=thanks%20for%20your%20gift.
+
+
+直接地址：
+
+        bc1q2fwt6kym2mfdnayy9rc3pqdu3fg0xkc2x2nkvm
+
+二维码：
+
+![原生BTCORE生成的二维码](./img/first_btc.png)
+
