@@ -2,11 +2,21 @@
 
 ## [GHT公网](http://111.39.38.46:8088)
 
+## 家中主网络
+
+eth0 光纤拨号的千兆接口
+
+eth1 simbox的专用接口
+ 
+eth2 主wifi接口
+
+eth3 Dell小主机接口
+
 ### SSH相关
 
-22 GPD
+22 接入黑群晖
 
-222 homepc用
+229 DELL小主机用
 
 2206 NAS用
 
