@@ -46,6 +46,7 @@ miniOP:[http://192.168.1.254/](http://192.168.1.254/)
 
 ### 自己搭建的学习平台与成果
 
+NAS上的GitLab：[http://x.aqde.net:30000/](http://x.aqde.net:30000/) **必须使用firefox访问，chrome的强制https会导致访问失败**
 
 黑群晖的SSL控制台：[https://nas.aqde.net:9090/](https://nas.aqde.net:9090/)
 
@@ -56,10 +57,6 @@ miniOP:[http://192.168.1.254/](http://192.168.1.254/)
 DELL-bt面板：[https://d.aqde.net:65534/](https://d.aqde.net:65534/)
 
 小型GL-inet远程:[http://miniop.freeddns.org](http://miniop.freeddns.org)
-
-NAS上的GitLab：[http://nas.aqde.net:30000](http://nas.aqde.net:30000)
-
-NNAS上的自建gitlab:[https://aqgitlab.ddnsto.com/](https://aqgitlab.ddnsto.com/)
 
 黑群晖上的相册:[https://nas.aqde.net:1980/photo/](https://nas.aqde.net:1980/photo/)
 
