@@ -26,6 +26,8 @@ B站的纪录片排行榜：[https://www.bilibili.com/v/popular/rank/documentary
 
 纪录片下载：[http://jlpcn.net/](http://jlpcn.net/)
 
+https://www.netflix.com/
+
 ### 内网主要设备管理
 
 hype-V的centos8管理:https://d.aqde.net:65534/
