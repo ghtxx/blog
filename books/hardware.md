@@ -6,6 +6,8 @@
 
 ## 软件下载
 
+此软件不支持linux!
+
 原版的cpu-z下载：[https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html)
 
 但是有时候国内下载太慢，所以我做了一个镜像：[windows中文版](https://nas.aqde.net:9090/fbsharing/gS4DXc16)、[安卓版](https://nas.aqde.net:9090/fbsharing/V4xfz4az)
@@ -24,7 +26,9 @@ gq班班通电脑：[https://valid.x86.fr/1k4afy](https://valid.x86.fr/1k4afy)
 
 Acer笔记本：[https://valid.x86.fr/cmgzcs](https://valid.x86.fr/cmgzcs)
 
-Dell的Fedora:因为软件不支持linux，只好放[官网的说明书](https://i.dell.com/sites/csdocuments/Business_large-Business_merchandizing_Documents/zh/cn/OptiPlex_3046_Technical_Spec_Sheet_ZH_CN_HR_yh_V3.pdf)了。
+Dell OptiPlex_3046 : https://valid.x86.fr/496li8
+
+[官网的说明书](https://i.dell.com/sites/csdocuments/Business_large-Business_merchandizing_Documents/zh/cn/OptiPlex_3046_Technical_Spec_Sheet_ZH_CN_HR_yh_V3.pdf)了。
 
 ## android设备
 
