@@ -26,7 +26,7 @@ B站的纪录片排行榜：[https://www.bilibili.com/v/popular/rank/documentary
 
 纪录片下载：[http://jlpcn.net/](http://jlpcn.net/)
 
-https://www.netflix.com/
+网飞视频：最全美剧观看网站 https://www.netflix.com/
 
 ### 内网主要设备管理
 
