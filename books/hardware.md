@@ -26,9 +26,7 @@ gq班班通电脑：[https://valid.x86.fr/1k4afy](https://valid.x86.fr/1k4afy)
 
 Acer笔记本：[https://valid.x86.fr/cmgzcs](https://valid.x86.fr/cmgzcs)
 
-Dell OptiPlex_3046 : https://valid.x86.fr/496li8
-
-[官网的说明书](https://i.dell.com/sites/csdocuments/Business_large-Business_merchandizing_Documents/zh/cn/OptiPlex_3046_Technical_Spec_Sheet_ZH_CN_HR_yh_V3.pdf)了。
+Dell OptiPlex_3046 : https://valid.x86.fr/496li8 附[官网的说明书](https://i.dell.com/sites/csdocuments/Business_large-Business_merchandizing_Documents/zh/cn/OptiPlex_3046_Technical_Spec_Sheet_ZH_CN_HR_yh_V3.pdf)了。
 
 ## android设备
 
