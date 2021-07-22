@@ -34,3 +34,5 @@ mix3手机：[https://valid.x86.fr/a/tvf4b6](https://valid.x86.fr/a/tvf4b6)
 
 小米平板4：[https://valid.x86.fr/a/7wsjst](https://valid.x86.fr/a/7wsjst)
 
+## ios设备 [已经购买geekbench](https://browser.geekbench.com/)
+iphone12mini：https://browser.geekbench.com/v5/cpu/8937037
