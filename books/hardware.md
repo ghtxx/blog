@@ -36,3 +36,5 @@ mix3手机：[https://valid.x86.fr/a/tvf4b6](https://valid.x86.fr/a/tvf4b6)
 
 ## ios设备 [已经购买geekbench](https://browser.geekbench.com/)
 iphone12mini：https://browser.geekbench.com/v5/cpu/8937037
+
+ipad 2019款：https://browser.geekbench.com/v5/cpu/8938990
