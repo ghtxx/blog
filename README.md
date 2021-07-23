@@ -78,6 +78,8 @@ GHTxx软路由管理：[https://aqghtxx.ddnsto.com/](https://aqghtxx.ddnsto.com/
 
 谷歌搜索引擎：[https://www.google.com/ncr](https://www.google.com/ncr)
 
+微软的官方订阅：https://my.visualstudio.com/ 
+
 开源软件社区：[https://github.com/](https://github.com/)
 
 世界最大域名注册与交易平台：[https://sg.godaddy.com/zh](https://sg.godaddy.com/zh)
