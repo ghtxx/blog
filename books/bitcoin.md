@@ -71,6 +71,127 @@ Miner的下载地址: [https://nas.aqde.net:9090/fbsharing/OH3jjkp5](https://nas
 
 这样的命令加进节点就可以提高速度了。
 
+### centos8安装节点程序的执行结果
+
+[root@hypevCentos8 ~]# curl https://bitnodes.io/install-full-node.sh | sh
+
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 19624    0 19624    0     0   6813      0 --:--:--  0:00:02 --:--:--  6811
+Start date: Sat Jul 24 16:49:35 CST 2021
+
+Welcome!
+
+You are about to install a Bitcoin full node based on Bitcoin Core v0.21.1.
+
+All files will be installed under /root/bitcoin-core directory.
+
+Your node will be configured to accept incoming connections from other nodes in
+the Bitcoin network by using uPnP feature on your router.
+
+For security reason, wallet functionality is not enabled by default.
+
+After the installation, it may take several hours for your node to download a
+full copy of the blockchain.
+
+If you wish to uninstall Bitcoin Core later, you can download this script and
+run "sh install-full-node.sh -u".
+
+Starting installation in 10 seconds..
+
+Creating target directory: /root/bitcoin-core
+
+Downloading Bitcoin Core binaries..
+Checksum passed: bitcoin-0.21.1.tar.gz (366eb44a7a0aa5bd342deea215ec19a184a11f2c                                                         a22220304ebb20b9c8917e2b)
+Signature passed: Signed checksum.asc verified successfully!
+
+Installing Bitcoin Core v0.21.1
+Bitcoin Core v0.21.1 (binaries) installed successfully!
+
+Starting Bitcoin Core..
+Bitcoin Core starting
+Bitcoin Core is running!
+
+Checking Bitcoin Core..
+{
+  "version": 210100,
+  "subversion": "/Satoshi:0.21.1/",
+  "protocolversion": 70016,
+  "localservices": "0000000000000409",
+  "localservicesnames": [
+    "NETWORK",
+    "WITNESS",
+    "NETWORK_LIMITED"
+  ],
+  "localrelay": true,
+  "timeoffset": 0,
+  "networkactive": true,
+  "connections": 1,
+  "connections_in": 0,
+  "connections_out": 1,
+  "networks": [
+    {
+      "name": "ipv4",
+      "limited": false,
+      "reachable": true,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "ipv6",
+      "limited": false,
+      "reachable": true,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "onion",
+      "limited": true,
+      "reachable": false,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    }
+  ],
+  "relayfee": 0.00001000,
+  "incrementalfee": 0.00001000,
+  "localaddresses": [
+  ],
+  "warnings": ""
+}
+
+
+Bitcoin Core is not accepting incoming connections at port 8333. You may need to                                                          configure port forwarding (https://bitcoin.org/en/full-node#port-forwarding) on                                                          your router.
+
+#### README
+
+To stop Bitcoin Core:
+
+    cd /root/bitcoin-core/bin && ./stop.sh
+
+To start Bitcoin Core again:
+
+    cd /root/bitcoin-core/bin && ./start.sh
+
+To use bitcoin-cli program:
+
+    cd /root/bitcoin-core/bin && ./bitcoin-cli -conf=/root/bitcoin-core/.bitcoin                                                         /bitcoin.conf getnetworkinfo
+
+To view Bitcoin Core log file:
+
+    tail -f /root/bitcoin-core/.bitcoin/debug.log
+
+To uninstall Bitcoin Core:
+
+    ./install-full-node.sh -u
+
+If this your first install, Bitcoin Core may take several hours to download a fu                                                         ll copy of the blockchain.
+
+Installation completed!
+
+End date: Sat Jul 24 16:52:52 CST 2021
+
+
 ## 一些有趣的btc相关网站
 似乎是个人版的BTC网络分析：https://bitcoincharts.com/bitcoin/
 
