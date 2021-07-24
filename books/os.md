@@ -1,8 +1,18 @@
-# 记录一下操作系统的使用感受
+# OS操作系统使用小全
 
 ## windows
 
 官方网站：[https://www.microsoft.com/zh-hk/windows](https://www.microsoft.com/zh-hk/windows)
+
+
+
+### win2012
+
+当前在dell上使用的，稳定性很好，就是驱动有点麻烦，显卡和声卡驱动都安装不上。在淘宝花9.9就能买到一个激活码，别搞什么破解机了。
+
+#### 推荐指数
+
+★★★★
 
 ### win7
 
