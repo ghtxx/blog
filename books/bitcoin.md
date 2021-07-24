@@ -74,6 +74,8 @@ Miner的下载地址: [https://nas.aqde.net:9090/fbsharing/OH3jjkp5](https://nas
 ### centos8安装节点程序的执行结果
 
 [root@hypevCentos8 ~]# curl https://bitnodes.io/install-full-node.sh | sh
+
+
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 19624    0 19624    0     0   6813      0 --:--:--  0:00:02 --:--:--  6811
@@ -157,6 +159,8 @@ Checking Bitcoin Core..
   ],
   "warnings": ""
 }
+
+
 Bitcoin Core is not accepting incoming connections at port 8333. You may need to                                                          configure port forwarding (https://bitcoin.org/en/full-node#port-forwarding) on                                                          your router.
 
 #### README
