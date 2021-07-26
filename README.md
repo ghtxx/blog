@@ -221,6 +221,7 @@ OpenWRT支持的硬件列表:[https://openwrt.org/toh/start](https://openwrt.org
 
 罗技外设官网注册:[https://support.logi.com/hc/zh-cn](https://support.logi.com/hc/zh-cn) 罗技有一个[中国版的独立商城](https://store.logitech.com.cn/)
 
+FingBox：https://www.fing.com/products 可惜目前国内买不到，亚马逊也断货了，淘宝上有两家卖1500多的黑店。
 ### 电子竞技
 
 在线围棋比赛网站：[https://home.yikeweiqi.com/](https://home.yikeweiqi.com/)
