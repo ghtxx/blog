@@ -4,7 +4,46 @@
 
 官方网站：[https://www.microsoft.com/zh-hk/windows](https://www.microsoft.com/zh-hk/windows)
 
+### windows通用指令
 
+windows系统的向下兼容是做的最好的，毕竟是大厂作品，没有linux各发行版互不兼容的毛病，在指令的使用上更是保持了与20年前发行的xp都兼容的高水准，不得不佩服，这里记录一些实用的指令。通常都是用win键+R来运行它们的。
+
+#### 自动登录
+
+                control userpasswords2
+
+在多用户的系统变成自己专用设备时使用这个命令可以避免开机后要输入密码登录的问题。
+
+                Rundll32 netplwiz.dll,UsersRunDll
+
+同样的效果，不过这个命令在server版上使用较多。
+
+#### 重启远程计算机的DOS命令
+
+                shutdown /?
+
+用法: shutdown [-i | -l | -s | -r | -a] [-f] [-m \\computername] [-t xx] [-c "co
+mment"] [-d up:xx:yy]
+
+没有参数 显示此消息(与 ? 相同)
+-i 显示 GUI 界面，必须是第一个选项
+-l 注销(不能与选项 -m 一起使用)
+-s 关闭此计算机
+-r 关闭并重启动此计算机
+-a 放弃系统关机
+-m \\computername 远程计算机关机/重启动/放弃
+-t xx 设置关闭的超时为 xx 秒
+-c "comment" 关闭注释(最大 127 个字符)
+-f 强制运行的应用程序关闭而没有警告
+-d [p]:xx:yy 关闭原因代码
+u 是用户代码
+p 是一个计划的关闭代码
+xx 是一个主要原因代码(小于 256 的正整数)
+yy 是一个次要原因代码(小于 65536 的正整数)
+
+比如重启IP地址为192.168.1.2的电脑：
+
+                shutdown -r -m \\192.168.1.2
 
 ### win2012
 
