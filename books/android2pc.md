@@ -18,7 +18,9 @@
 
 ## 手机变身电脑副屏幕
 
-[http://nas.aqde.net:8091/fbsharing/AfxJzyPs](http://nas.aqde.net:8091/fbsharing/AfxJzyPs)
+手机端下载安装：[本地镜像](http://nas.aqde.net:8091/fbsharing/AfxJzyPs)
+
+电脑端从官网下载对应的软件安装：https://www.spacedesk.net/
 
 ## 手机变身linux终端
 
