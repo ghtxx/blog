@@ -22,6 +22,10 @@
 
 电脑端从官网下载对应的软件安装：https://www.spacedesk.net/
 
+此功能需要电脑显卡驱动安装正常。
+
+同时还提供有浏览器同步的功能：http://viewer.spacedesk.net/
+
 ## 手机变身linux终端
 
 [http://nas.aqde.net:8091/fbsharing/JAULxcLe](http://nas.aqde.net:8091/fbsharing/JAULxcLe)
