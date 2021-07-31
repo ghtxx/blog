@@ -274,7 +274,7 @@ pygame的官方指南：[https://www.pygame.org/wiki/GettingStarted](https://www
 
 [微信广告一个风水小说](https://www.google.com/search?client=firefox-b-e&q=%E4%B9%98%E9%A3%8E%E5%B0%91%E5%B9%B4),看来网络小说这个产业也发展的很不错了.https://m.biduoxs.com/xbiquge/2_2124/c928338_2.html 16.
 
-又一本[好玩的风水小说](https://www.google.com/search?client=firefox-b-e&q=%E9%99%88%E9%BB%84%E7%9A%AE)：https://www.biquyue.com/book_b2293/#footer 045.
+又一本[好玩的风水小说](https://www.google.com/search?client=firefox-b-e&q=%E9%99%88%E9%BB%84%E7%9A%AE)：https://www.biquyue.com/book_b2293/#footer 047.
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
