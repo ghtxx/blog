@@ -1,5 +1,13 @@
-function calculateDaysBetweenDates(begin, end) {    
-    var begindata
+function calculateDaysBetweenDates(_begin) {             
     
     addEventListener
-    defaultStatus
+    defaultStatus       
+
+
+function calculateDaysBetweenDates() {  
+
+    
+
+    
+
+    
