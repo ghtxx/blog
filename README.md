@@ -48,7 +48,12 @@ miniOP:[http://192.168.1.254/](http://192.168.1.254/)
 
 ### 自己搭建的学习平台与成果
 
-CentOS 的web控制台有2个：https://192.168.1.245:9090/ https://192.168.1.3:9090/
+CentOS 的web控制台启用很简单：
+
+        systemctl enable --now cockpit.socket
+
+即可访问机器IP+端口9090使用了。三台虚拟机都用了。
+[DELL VM](https://192.168.1.245:9090/)、[Hyper-V BT](https://192.168.1.3:9090/) 、[Hyper-V bitcore](https://192.168.1.192:9090/) 
 
 蜗牛上的BT Sync：https://192.168.1.8:28888/ 只能内网访问
 
