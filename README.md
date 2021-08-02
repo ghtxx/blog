@@ -48,6 +48,8 @@ miniOP:[http://192.168.1.254/](http://192.168.1.254/)
 
 ### 自己搭建的学习平台与成果
 
+CentOS 的web控制台有2个：https://192.168.1.245:9090/ https://192.168.1.3:9090/
+
 蜗牛上的BT Sync：https://192.168.1.8:28888/ 只能内网访问
 
 NAS上的GitLab：[http://x.aqde.net:30000/](http://x.aqde.net:30000/) **必须使用firefox访问，chrome的强制https会导致访问失败**
