@@ -48,6 +48,8 @@ miniOP:[http://192.168.1.254/](http://192.168.1.254/)
 
 ### 自己搭建的学习平台与成果
 
+蜗牛上的BT Sync：http://nnas.aqde.net:28888/
+
 NAS上的GitLab：[http://x.aqde.net:30000/](http://x.aqde.net:30000/) **必须使用firefox访问，chrome的强制https会导致访问失败**
 
 黑群晖的SSL控制台：[https://nas.aqde.net:9090/](https://nas.aqde.net:9090/)
