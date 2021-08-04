@@ -48,6 +48,8 @@ miniOP:[http://192.168.1.254/](http://192.168.1.254/)
 
 ### 自己搭建的学习平台与成果
 
+最后还是选择打开HFS功能：http://x.aqde.net:1984/ 【使用最简单】
+
 CentOS 的web控制台启用很简单：
 
         systemctl enable --now cockpit.socket
@@ -65,7 +67,7 @@ NAS上的GitLab：[http://x.aqde.net:30000/](http://x.aqde.net:30000/) **必须�
 
 地云科技的早期网站：[https://b.aqde.net:8/](https://b.aqde.net:8/)
 
-DELL-bt面板：[https://d.aqde.net:65534/](https://d.aqde.net:65534/)
+三年有效的bt面板：[https://d.aqde.net:65534/](https://d.aqde.net:65534/)
 
 小型GL-inet远程:[http://miniop.freeddns.org](http://miniop.freeddns.org)
 
@@ -283,11 +285,11 @@ pygame的官方指南：[https://www.pygame.org/wiki/GettingStarted](https://www
 
 打算看一下网络风评很好的《诛仙》：[https://www.xinshuhaige.org/44830/](https://www.xinshuhaige.org/44830/)
 
-[很垃圾的一本小说](https://www.google.com/search?client=firefox-b-e&q=%E9%83%BD%E5%B8%82%E6%9E%81%E5%93%81%E5%8C%BB%E7%A5%9E),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,[反而丢不下了](https://www.xinshuhaige.net/53535/3460771.html) 6603.
+[很垃圾的一本小说](https://www.google.com/search?client=firefox-b-e&q=%E9%83%BD%E5%B8%82%E6%9E%81%E5%93%81%E5%8C%BB%E7%A5%9E),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,[反而丢不下了](https://www.xinshuhaige.net/53535/3460852.html) 6610.
 
-[微信广告一个风水小说](https://www.google.com/search?client=firefox-b-e&q=%E4%B9%98%E9%A3%8E%E5%B0%91%E5%B9%B4),看来网络小说这个产业也发展的很不错了.https://m.biduoxs.com/xbiquge/2_2124/c928350_2.html 28.
+[微信广告一个风水小说](https://www.google.com/search?client=firefox-b-e&q=%E4%B9%98%E9%A3%8E%E5%B0%91%E5%B9%B4),看来网络小说这个产业也发展的很不错了.https://m.biduoxs.com/xbiquge/2_2124/c928353_2.html 31.
 
-又一本[好玩的风水小说](https://www.google.com/search?client=firefox-b-e&q=%E9%99%88%E9%BB%84%E7%9A%AE)：https://www.biquyue.com/book_b2293/#footer 057.
+又一本[好玩的风水小说](https://www.google.com/search?client=firefox-b-e&q=%E9%99%88%E9%BB%84%E7%9A%AE)：https://www.biquyue.com/book_b2293/#footer 062.
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
