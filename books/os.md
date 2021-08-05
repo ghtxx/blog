@@ -191,6 +191,19 @@ sudo apt upgrade
 
 ## centos8的优化记录
 
+### 安装centos额外软件的前提
+
+                sudo yum install epel-release
+
+epel源内容较丰富，比如经常用的screen等。
+
+### 安装screen后的改良
+
+默认安装的screen会有闪屏等问题，这个配置文件可解决：
+
+                wget https://gist.githubusercontent.com/jarodlee/75dfcb88111e4f5e9accc8e813d1ce0a/raw/89121fd0aebd58dba2c97cbe62f51476104144f4/.screenrc
+
+
 ### 启动字符界面
 通常安装的图形界面会占用较多内存，节省内存可以使用字符界面：
 
