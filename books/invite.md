@@ -22,9 +22,14 @@
 ### PC软件
 
 * 开源的在线画图工具：[https://www.draw.io/](https://www.draw.io/)
+
 * 一个纯浏览器就可完整用的流程图、脑图工具，可使用QQ或微信登录：[https://www.processon.com/i/5f6c4458637689435fe8f885](https://www.processon.com/i/5f6c4458637689435fe8f885)
-* 2345软件：[https://jifen.2345.com/wph5/m/invite?inviteCode=W6703965838](https://jifen.2345.com/wph5/m/invite?inviteCode=W6703965838) 这是一直在坚持的上海软件公司，虽然附带广告，但相对腾讯来说已经算是良心了，我做了十年，赚了几千块钱。
-* 腾讯装机部落：[https://zjbl.qq.com?invisit\_code=1158337409](https://zjbl.qq.com?invisit_code=1158337409) 一个已经快倒闭的装软件赚钱工具。
+
+* 2345软件：https://jifen.2345.com/wph5/m/invite?inviteCode=W6703965838 这是一直在坚持的上海软件公司，虽然附带广告，但相对腾讯来说已经算是良心了，我做了十年，赚了几千块钱。
+
+* 腾讯装机部落：https://zjbl.qq.com?invisit_code=1158337409 一个已经快倒闭的装软件赚钱工具。
+
+360装机联盟： http://urlqh.cn/mT2vZ 非常小气的360官方软件推广平台，主要是国内安全软件已经一个能打的都没有了，360的装机量还是非常大的。
 
 ### 手机软件
 
