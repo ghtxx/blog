@@ -48,7 +48,11 @@ miniOP:[http://192.168.1.254/](http://192.168.1.254/)
 
 ### 自己搭建的学习平台与成果
 
-最后还是选择打开HFS功能：http://x.aqde.net:1984/ 【使用最简单】
+一个简单的NAS监控：http://192.168.1.6:667/
+
+路由上的KOD好像也能用了：http://x.aqde.net:1024
+
+最后还是选择打开HFS功能：http://k.aqde.net:1984/ 【使用最简单】
 
 CentOS 的web控制台启用很简单：
 
@@ -179,7 +183,7 @@ g0v计划：[http://g0v.asia/](http://g0v.asia/)
 
 ### 中国官方网站
 
-阅文写作平台：https://write.qq.com/portal/dashboard
+阅文写作平台：<https://write.qq.com/portal/dashboard>
 
 安徽入学管理：[http://ahrx.ahjygl.gov.cn](http://ahrx.ahjygl.gov.cn)
 
