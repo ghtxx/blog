@@ -13,3 +13,4 @@
 # !index.php
 
 /.vs/*
+/.vscode/*
