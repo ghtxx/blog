@@ -16,6 +16,8 @@
 
 ### 临时的网络记录
 
+新人C++教程：https://www.runoob.com/cplusplus/cpp-tutorial.html
+
 EPIC家的虚幻引擎官方指导:[https://docs.unrealengine.com/zh-CN/WhatsNew/index.html](https://docs.unrealengine.com/zh-CN/WhatsNew/index.html)
 
 B站的纪录片排行榜：[https://www.bilibili.com/v/popular/rank/documentary](https://www.bilibili.com/v/popular/rank/documentary) 看上去还是很不错的。
@@ -82,6 +84,10 @@ NAS上的GitLab：[http://x.aqde.net:30000/](http://x.aqde.net:30000/) **必须�
 文件交换工具：[https://m.aqde.net:89](https://m.aqde.net:89)
 
 GHTxx软路由管理：[https://aqghtxx.ddnsto.com/](https://aqghtxx.ddnsto.com/)
+
+2006年的教学网站：http://lxj2006.5166.info/
+
+黑群晖的WEB访问：http://ll901.uicp.hk/
 
 ## 官方网站
 
