@@ -1,6 +1,6 @@
 # README
 
-在国内使用互联网时请使用微软的搜索引擎：[https://www.bing.com](https://www.bing.com)
+在国内使用互联网时请使用微软的搜索引擎：https://www.bing.com
 
 ![&#x9762;&#x5411;&#x672A;&#x6765;&#xFF0C;&#x6625;&#x6696;&#x82B1;&#x5F00;&#x3002;](.gitbook/assets/m.png)
 
@@ -18,13 +18,13 @@
 
 新人C++教程：https://www.runoob.com/cplusplus/cpp-tutorial.html
 
-EPIC家的虚幻引擎官方指导:[https://docs.unrealengine.com/zh-CN/WhatsNew/index.html](https://docs.unrealengine.com/zh-CN/WhatsNew/index.html)
+EPIC家的虚幻引擎官方指导:https://docs.unrealengine.com/zh-CN/WhatsNew/index.html
 
-B站的纪录片排行榜：[https://www.bilibili.com/v/popular/rank/documentary](https://www.bilibili.com/v/popular/rank/documentary) 看上去还是很不错的。
+B站的纪录片排行榜：https://www.bilibili.com/v/popular/rank/documentary 看上去还是很不错的。
 
-凡人动漫：[https://www.bilibili.com/bangumi/media/md28223043/](https://www.bilibili.com/bangumi/media/md28223043/)
+凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
-电影下载：[https://www.ygdy8.com/index.html](https://www.ygdy8.com/index.html)
+电影下载：https://www.ygdy8.com/index.html
 
 纪录片下载：[http://jlpcn.net/](http://jlpcn.net/)
 
