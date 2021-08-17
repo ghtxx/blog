@@ -15,7 +15,14 @@ CCF中学生程序设计题库：http://oj.noi.cn/
 
 ## 竞赛主要内容分析
 - 9月8号截止 CSP非专业级别网上报名 http://cspsj.noi.cn/
+
+- NOI总体大纲:[官网2020版](https://m.aqde.net:89/pdfview/web/viewer.html?file=/resourceController/getResource/be2541d4-eb16-4561-a4d2-fe652685408c)
+
+- 基础教育信息技术课程标准：[2012版](https://m.aqde.net:89/pdfview/web/viewer.html?file=/resourceController/getResource/9b7f1a5f-c537-4635-9f5a-5bd56542d7d7)
 ## 竞赛往年题库
+
+2021年基础知识题库：[官方版](https://m.aqde.net:89/pdfview/web/viewer.html?file=/resourceController/getResource/61b0facd-88fd-4d8d-af92-294195624774)
+
 
 ## 训练总结
 
