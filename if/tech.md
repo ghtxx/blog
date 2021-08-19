@@ -8,7 +8,7 @@ CCF中学生程序设计题库：http://oj.noi.cn/
 
 官方竞赛环境说明与下载：https://mp.weixin.qq.com/s/bpM24aPWB6wRaj3NQEEe8w
 
-官方竞赛环境优化：https://if.aqde.net/noilinux
+官方竞赛环境优化：https://g.aqde.net/if/noilinux
 
 中国计算机学会官网：http://ccf.org.cn/
 
