@@ -135,6 +135,8 @@ Fox News：[https://www.foxnews.com/](https://www.foxnews.com/)
 
 ### 精致的网络应用
 
+开源的世界地图：https://www.openstreetmap.org/
+
 一个神奇的平台：https://hackmd.io/
 
 航天器追踪:[https://orbit.ing-now.com/satellite/48275/2021-035b/cz-5b/](https://orbit.ing-now.com/satellite/48275/2021-035b/cz-5b/)
