@@ -4,13 +4,15 @@
 
 不过cpu-z只支持windows和android，所以我更喜欢的linux和苹果就没有列入了。
 
-相对cpu-z的参数来说，还有一个更直观的硬件对比网站也很不错：https://hdd.userbenchmark.com/ 不过是全英文的，需要有英文的基础阅读能力才好。
+相对cpu-z的参数来说，还有一个更直观的硬件对比网站也很不错：https://hdd.userbenchmark.com/ 
+
+不过是全英文的，需要有英文的基础阅读能力才好。
 
 ## 软件下载
 
 此软件不支持linux!
 
-原版的cpu-z下载：[https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html)
+原版的cpu-z下载：https://www.cpuid.com/softwares/cpu-z.html
 
 但是有时候国内下载太慢，所以我做了一个镜像：[windows中文版](https://nas.aqde.net:9090/fbsharing/gS4DXc16)、[安卓版](https://nas.aqde.net:9090/fbsharing/V4xfz4az)
 

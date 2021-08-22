@@ -238,6 +238,11 @@ g0v计划：[http://g0v.asia/](http://g0v.asia/)
 公共资源交易服务网:[http://aqggzy.anqing.gov.cn/](http://aqggzy.anqing.gov.cn/)
 
 ### 硬件设备
+
+硬件评测与对比：https://hdd.userbenchmark.com/ 
+
+CPU-Z经典参数：https://www.cpuid.com/softwares/cpu-z.html
+
 多卡宝voip设备：https://www.glocalme.com/HK/en-US/simbox/poster [中文版](https://cn.ucloudlink.com/html/devices-simbox/)
 
 OpenWRT支持的硬件列表:[https://openwrt.org/toh/start](https://openwrt.org/toh/start)
