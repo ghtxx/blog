@@ -195,8 +195,6 @@ g0v计划：[http://g0v.asia/](http://g0v.asia/)
 
 阅文写作平台：<https://write.qq.com/portal/dashboard>
 
-安徽入学管理：[http://ahrx.ahjygl.gov.cn](http://ahrx.ahjygl.gov.cn)
-
 快递业投诉网站：[http://sswz.spb.gov.cn/mine.html](http://sswz.spb.gov.cn/mine.html) 【需要先向快递公司投诉7天后才可向此官网投诉，实名制】
 
 中国环境污染网上举报:[http://jubao.mee.gov.cn/netreport/netreport/index](http://jubao.mee.gov.cn/netreport/netreport/index) 【实名制，投诉会转到区级环保局，有可能被踢皮球】
@@ -235,9 +233,13 @@ g0v计划：[http://g0v.asia/](http://g0v.asia/)
 
 #### 安庆本地
 
+国网安徽电力公司：http://www.ah.sgcc.com.cn/
+
 宜采商城:[http://aqggzy.anqing.gov.cn:7001/aqshop/](http://aqggzy.anqing.gov.cn:7001/aqshop/)
 
 公共资源交易服务网:[http://aqggzy.anqing.gov.cn/](http://aqggzy.anqing.gov.cn/)
+
+安徽入学管理：[http://ahrx.ahjygl.gov.cn](http://ahrx.ahjygl.gov.cn)
 
 ### 硬件设备
 
