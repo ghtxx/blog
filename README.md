@@ -1,8 +1,10 @@
 # README
 
+学电脑，从电子邮件开始： https://mail.aqde.net
+
 在国内使用互联网时请使用微软的搜索引擎：https://www.bing.com
 
-![&#x9762;&#x5411;&#x672A;&#x6765;&#xFF0C;&#x6625;&#x6696;&#x82B1;&#x5F00;&#x3002;](.gitbook/assets/m.png)
+![面向未来，春暖花开。](.gitbook/assets/m.png)
 
 ## 常用的链接整理
 
@@ -201,6 +203,10 @@ g0v计划：[http://g0v.asia/](http://g0v.asia/)
 
 中国环境污染网上举报:http://jubao.mee.gov.cn/netreport/netreport/index 【实名制，投诉会转到区级环保局，有可能被踢皮球】
 
+中华人民共和国网络安全法：[网警版](http://www.cyberpolice.cn/wfjb/html/flfg/20161108/3568.shtml)、[人大版](http://www.npc.gov.cn/wxzl/gongbao/2017-02/20/content_2007531.htm)
+
+中华人民共和国个人信息保护法：http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml
+
 360团队版管理:https://admin.online.360.cn/
 
 微信公众平台:https://weixin.qq.com/
@@ -286,9 +292,7 @@ Steam战网：[https://store.steampowered.com/](https://store.steampowered.com/)
 
 MIT的原版Scratch教学:[http://scratch.mit.edu/signup/c214fbcd64db03](http://scratch.mit.edu/signup/c214fbcd64db03)
 
-广州教科研网的APP在线制作工具：[http://app.gzjkw.net](http://app.gzjkw.net)
-
-麻省的AI工具：[http://appinventor.mit.edu/](http://appinventor.mit.edu/)
+APP在线制作工具：[广州教科研网镜像](http://app.gzjkw.net)、[MIT原版](http://appinventor.mit.edu/)
 
 pygame的官方指南：[https://www.pygame.org/wiki/GettingStarted](https://www.pygame.org/wiki/GettingStarted)
 
@@ -308,7 +312,7 @@ pygame的官方指南：[https://www.pygame.org/wiki/GettingStarted](https://www
 
 打算看一下网络风评很好的《诛仙》：[https://www.xinshuhaige.org/44830/](https://www.xinshuhaige.org/44830/)
 
-[很垃圾的一本小说](https://www.google.com/search?client=firefox-b-e&q=%E9%83%BD%E5%B8%82%E6%9E%81%E5%93%81%E5%8C%BB%E7%A5%9E),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,[反而丢不下了](https://m.shuhaige.tw/53535/3464516.html) 6750.
+[很垃圾的一本小说](https://www.google.com/search?client=firefox-b-e&q=%E9%83%BD%E5%B8%82%E6%9E%81%E5%93%81%E5%8C%BB%E7%A5%9E),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,[反而丢不下了](https://m.shuhaige.tw/53535/3464599.html) 6757.
 
 [微信广告一个风水小说](https://www.google.com/search?client=firefox-b-e&q=%E4%B9%98%E9%A3%8E%E5%B0%91%E5%B9%B4),看来网络小说这个产业也发展的很不错了.https://www.biquyue.com/book_b1985/#footer 28.
 
