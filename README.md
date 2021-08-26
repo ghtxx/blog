@@ -1,8 +1,10 @@
 # README
 
+学电脑，从电子邮件开始： https://mail.aqde.net
+
 在国内使用互联网时请使用微软的搜索引擎：https://www.bing.com
 
-![&#x9762;&#x5411;&#x672A;&#x6765;&#xFF0C;&#x6625;&#x6696;&#x82B1;&#x5F00;&#x3002;](.gitbook/assets/m.png)
+![面向未来，春暖花开。](.gitbook/assets/m.png)
 
 ## 常用的链接整理
 
