@@ -195,27 +195,29 @@ g0v计划：[http://g0v.asia/](http://g0v.asia/)
 
 ### 中国官方网站
 
-阅文写作平台：<https://write.qq.com/portal/dashboard>
+人民教育出版社：https://www.pep.com.cn/
 
-快递业投诉网站：[http://sswz.spb.gov.cn/mine.html](http://sswz.spb.gov.cn/mine.html) 【需要先向快递公司投诉7天后才可向此官网投诉，实名制】
+阅文写作平台：https://write.qq.com/portal/dashboard
 
-中国环境污染网上举报:[http://jubao.mee.gov.cn/netreport/netreport/index](http://jubao.mee.gov.cn/netreport/netreport/index) 【实名制，投诉会转到区级环保局，有可能被踢皮球】
+快递业投诉网站：http://sswz.spb.gov.cn/mine.html 【需要先向快递公司投诉7天后才可向此官网投诉，实名制】
 
-360团队版管理:[https://admin.online.360.cn/](https://admin.online.360.cn/)
+中国环境污染网上举报:http://jubao.mee.gov.cn/netreport/netreport/index 【实名制，投诉会转到区级环保局，有可能被踢皮球】
 
-微信公众平台:[https://weixin.qq.com/](https://weixin.qq.com/)
+360团队版管理:https://admin.online.360.cn/
 
-中国专利数据库: [http://epub.sipo.gov.cn/sjsm.jsp](http://epub.sipo.gov.cn/sjsm.jsp)
+微信公众平台:https://weixin.qq.com/
 
-国务院国情介绍:[http://www.gov.cn/guoqing/index.htm](http://www.gov.cn/guoqing/index.htm)
+中国专利数据库: http://epub.sipo.gov.cn/sjsm.jsp
 
-新浪微博：[https://weibo.com/jarodlee](https://weibo.com/jarodlee)
+国务院国情介绍:http://www.gov.cn/guoqing/index.htm
 
-阿里云：[https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=h7a5zesu](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=h7a5zesu)
+新浪微博：https://weibo.com/jarodlee
 
-腾讯云:[https://cloud.tencent.com/](https://cloud.tencent.com/)
+阿里云：[快速注册](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=h7a5zesu)
 
-中国教科网CERNET：[https://www.edu.cn/](https://www.edu.cn/)
+腾讯云:[快速注册](https://cloud.tencent.com/)
+
+中国教科网CERNET：https://www.edu.cn/
 
 腾讯AI：[https://ai.qq.com/](https://ai.qq.com/)
 
@@ -225,7 +227,7 @@ g0v计划：[http://g0v.asia/](http://g0v.asia/)
 
 今日头条：[https://www.toutiao.com/](https://www.toutiao.com/)
 
-南海战略态势感知计划：[http://www.scspi.org/zh](http://www.scspi.org/zh)
+南海战略态势感知计划：http://www.scspi.org/zh)
 
 网易的未成年人保护规则：[https://kada.163.com/topics/kada\_children\_terms/](https://kada.163.com/topics/kada_children_terms/)
 
@@ -308,11 +310,11 @@ pygame的官方指南：[https://www.pygame.org/wiki/GettingStarted](https://www
 
 打算看一下网络风评很好的《诛仙》：[https://www.xinshuhaige.org/44830/](https://www.xinshuhaige.org/44830/)
 
-[很垃圾的一本小说](https://www.google.com/search?client=firefox-b-e&q=%E9%83%BD%E5%B8%82%E6%9E%81%E5%93%81%E5%8C%BB%E7%A5%9E),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,[反而丢不下了](https://m.shuhaige.tw/53535/3464355.html) 6729.
+[很垃圾的一本小说](https://www.google.com/search?client=firefox-b-e&q=%E9%83%BD%E5%B8%82%E6%9E%81%E5%93%81%E5%8C%BB%E7%A5%9E),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,[反而丢不下了](https://m.shuhaige.tw/53535/3464516.html) 6750.
 
-[微信广告一个风水小说](https://www.google.com/search?client=firefox-b-e&q=%E4%B9%98%E9%A3%8E%E5%B0%91%E5%B9%B4),看来网络小说这个产业也发展的很不错了.https://www.biquyue.com/book_b1985/#footer 24.
+[微信广告一个风水小说](https://www.google.com/search?client=firefox-b-e&q=%E4%B9%98%E9%A3%8E%E5%B0%91%E5%B9%B4),看来网络小说这个产业也发展的很不错了.https://www.biquyue.com/book_b1985/#footer 28.
 
-又一本[好玩的风水小说](https://www.google.com/search?client=firefox-b-e&q=%E9%99%88%E9%BB%84%E7%9A%AE)：https://www.bqg9527.com/book/154780/ 115.
+又一本[好玩的风水小说](https://www.google.com/search?client=firefox-b-e&q=%E9%99%88%E9%BB%84%E7%9A%AE)：https://www.bqg9527.com/book/154780/ 122.
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
