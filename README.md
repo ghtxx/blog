@@ -1,5 +1,7 @@
 # README
 
+国家中小学网络云平台：https://ykt.eduyun.cn/ykt/index.html
+
 学电脑，从电子邮件开始： https://mail.aqde.net
 
 在国内使用互联网时请使用微软的搜索引擎：https://www.bing.com
