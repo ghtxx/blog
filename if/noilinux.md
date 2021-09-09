@@ -169,3 +169,28 @@ Debian 稳定版：
 
 注意： 如想要使用 Qv2ray 的开发版本，请阅读https://qv2ray.org/debian-dev (opens new window)， qv2ray-dev额外提供 Debian 的 arm64 和 mips64el 版本。如果您想使用，您应该将[arch=amd64]更改为您的架构，例如[arch=arm64] 。
 
+## 安装 v2rayA
+Debian 系列安装
+### 方法一：通过软件源安装
+
+添加公钥
+
+        wget -qO - https://apt.v2raya.mzz.pub/key/public-key.asc | sudo apt-key add -
+
+添加 V2RayA 软件源
+
+        echo "deb https://apt.v2raya.mzz.pub/ v2raya main" | sudo tee /etc/apt/sources.list.d/v2raya.list
+
+        sudo apt update
+
+安装 V2RayA
+
+        sudo apt install v2raya
+
+### 方法二：手动安装 deb 包
+
+下载 deb 包后可以使用 Gdebi、QApt 等图形化工具来安装，也可以使用命令行：
+
+        sudo apt install /path/download/installer_debian_xxx_vxxx.deb
+
+ 自行替换 deb 包所在的实际路径
