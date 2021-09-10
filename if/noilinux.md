@@ -65,110 +65,6 @@ dock上只有火狐和文件管理器，建议将终端、编辑器和本机测�
 
 修改 #Port 22 为 Port **自己喜欢的端口号** 就行了。
 
-## 获取 Qv2ray
-要开始使用 Qv2ray，那就得先以某种方式获取到它。
-
-我们提供了许多种方式，您可以根据您的喜好选择。
-
-### 来自软件包管理器
-#### Linux：Debian、Ubuntu 与它们的衍生版本
-#### 安装相关工具
-
-                sudo apt install gnupg ca-certificates curl
-
-### 为 Debian 安装 Qv2ray 稳定版本
-
-添加 Qv2ray 公钥到你的系统：
-
-导入我们的 GPG 密钥，注意行尾的连字符。
-
-                curl https://qv2ray.net/debian/pubkey.gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/qv2ray-stable-archive.gpg
-
-您还可以使用 FastGit 导入 GPG 公钥：
-
-                curl https://raw.fastgit.org/Qv2ray/debian/master/pubkey.gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/qv2ray-stable-archive.gpg
-
-### 主存储库
-
-添加我们的官方 APT 存储库：
-
-Debian 稳定版：
-
-                echo "deb [arch=amd64] https://qv2ray.net/debian/ stable main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
-
-如果您使用的是 Debian 不稳定版本，那么您需要改用此命令：
-
-                echo "deb [arch=amd64] https://qv2ray.net/debian/ unstable main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
-
-更新 APT 索引：
-
-                sudo apt update
-
-您现在可以从 APT 安装 Qv2ray：
-
-                sudo apt install qv2ray
-
-### FastGit 镜像（用于加速下载 规避 GitHub 被墙）
-添加我们的官方 APT 存储库：
-
-                echo "deb [arch=amd64] https://raw.fastgit.org/Qv2ray/debian/master/ stable main" | sudo tee /etc/apt/sources.list.d/qv2ray-fastgit.list
-
-如果您使用的是不稳定版本的 Debian，那么您需要改用此命令：
-
-                echo "deb [arch=amd64] https://raw.fastgit.org/Qv2ray/debian/master/ unstable main" | sudo tee /etc/apt/sources.list.d/qv2ray-fastgit.list
-
-更新 APT 索引：
-
-                sudo apt update
-
-您现在可以从 APT 安装 Qv2ray：
-
-                sudo apt install qv2ray
-
-### 适用于 Ubuntu 的 Qv2ray 稳定版
-
-**注意：**所有的命令都要在bash中运行，如果你使用的是其他 shell，如zsh ， fish ，那么你需要先运行 bash命令。
-
-将 Qv2ray 公钥添加到您的系统：
-
-导入我们的 GPG 密钥，注意行尾的连字符：
-
-                curl https://qv2ray.net/debian/pubkey.gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/qv2ray-stable-archive.gpg
-
-您还可以使用 FastGit 导入 GPG 公钥：
-
-                curl https://raw.fastgit.org/Qv2ray/debian/master/pubkey.gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/qv2ray-stable-archive.gpg
-
-### 主存储库
-
-添加我们的官方 APT 存储库：
-
-                $ echo "deb [arch=amd64] https://qv2ray.net/debian/ `lsb_releases -cs` main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
-
-更新 APT 索引：
-
-                sudo apt update
-
-您现在可以从 APT 安装 Qv2ray：
-
-                sudo apt install qv2ray
-
-### FastGit 镜像（用于加速下载 规避 GitHub 被墙）
-
-添加我们的官方 APT 存储库：
-
-                $ echo "deb [arch=amd64] https://raw.fastgit.org/Qv2ray/debian/master/ `lsb_release` main" | sudo tee /etc/apt/sources.list.d/qv2ray-fastgit.list
-
-更新 APT 索引：
-
-                sudo apt update
-
-您现在可以从 APT 安装 Qv2ray：
-
-                sudo apt install qv2ray
-
-注意： 如想要使用 Qv2ray 的开发版本，请阅读https://qv2ray.org/debian-dev (opens new window)， qv2ray-dev额外提供 Debian 的 arm64 和 mips64el 版本。如果您想使用，您应该将[arch=amd64]更改为您的架构，例如[arch=arm64] 。
-
 ## 安装 v2rayA
 Debian 系列安装
 ### 方法一：通过软件源安装
@@ -194,3 +90,13 @@ Debian 系列安装
         sudo apt install /path/download/installer_debian_xxx_vxxx.deb
 
  自行替换 deb 包所在的实际路径
+
+## 安装v2ray核心组件
+
+上面的只是v2ray的配置工具，在这之前要安装核心功能包，虽然网上有apt的安装方法，但apt中的包较旧，目前最新的是4.41版，所以我采用了离线安装的方法：
+
+ 网友提供的是：https://cdn.jsdelivr.net/gh/v2fly/debian@main/pool/main/v/v2ray-core/v2ray_4.41.1-1_amd64.deb
+
+ 为了防止被墙，我自己做了个备份：[点此下载](https://nas.aqde.net:9090/fbsharing/BxzOC2En)
+
+由于我是先安装工具再安装核心的，所以要重启机器后才能生效。
