@@ -197,6 +197,13 @@ sudo apt upgrade
 
 epel源内容较丰富，比如经常用的screen等。
 
+### CentOS 的web控制台
+
+启用很简单：
+
+        systemctl enable --now cockpit.socket
+
+即可访问机器IP+端口9090使用了。
 ### 安装screen后的改良
 
 默认安装的screen会有闪屏等问题，这个配置文件可解决：

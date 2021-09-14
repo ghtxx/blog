@@ -62,11 +62,7 @@ miniOP:http://192.168.1.254/
 
 最后还是选择打开HFS功能：http://k.aqde.net:1984/ 【使用最简单】
 
-CentOS 的web控制台启用很简单：
-
-        systemctl enable --now cockpit.socket
-
-即可访问机器IP+端口9090使用了。三台虚拟机都用了。
+三台虚拟机都用了cockpit:
 [DELL VM](https://192.168.1.245:9090/)、[Hyper-V BT](https://192.168.1.3:9090/) 、[Hyper-V bitcore](https://192.168.1.192:9090/) 
 
 蜗牛上的BT Sync：https://192.168.1.8:28888/ 只能内网访问
