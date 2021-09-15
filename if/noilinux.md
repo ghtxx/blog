@@ -100,3 +100,17 @@ Debian 系列安装
  为了防止被墙，我自己做了个备份：[点此下载](https://nas.aqde.net:9090/fbsharing/BxzOC2En)
 
 由于我是先安装工具再安装核心的，所以要重启机器后才能生效。
+
+## 安装后的必执行命令
+
+        ssh-keygen
+        sudo passwd root
+        sudo systemctl enable ssh
+        sudo apt update
+        sudo apt install net-tools
+        sudo apt install lynx
+        git config --global user.name "Jarod"
+        git config --global user.email lee.jarod@gmail.com
+        sudo dpkg -i ./v2ray_4.41.1-1_amd64.deb
+        sudo apt install htop
+        git clone git@github.com:jarodlee/blog.git
